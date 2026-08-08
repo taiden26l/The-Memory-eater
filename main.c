@@ -4,7 +4,7 @@
 int main(void) {
     int *buffer;
     int size = 10;
-    long long buffer_size = 64LL * 1024 * 1024 * 1024;
+    long long buffer_size = 64LL * 1024 * 1024 * 1024; // change 64LL to whatever for Gib remove on of the * 1024 for Mb or KB or B also dont run this on a chromebook im begging you
     buffer = malloc(buffer_size);
     if (buffer == NULL) {
         printf("Allocation Failure: buffer is NULL\n");
