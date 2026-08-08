@@ -1,9 +1,14 @@
 # The-Memory-eater
-Do NOT run with less then the required ram this was a test for memory allocation it serves no purpose.
-Has 6 editions:
-- 128GiB version (dont run this please)
-- 64GiB edition
-- 32GiB edition
-- 16GiB edition
-- 8GiB edition
-- 4Gib editon (Chromebook Edition)
+
+**DO NOT run this with less than the required RAM.**
+
+This was a test for memory allocation. It serves absolutely no purpose.
+
+It has 6 editions:
+
+* **128 GiB version** — *(don't run this please)*
+* **64 GiB edition**
+* **32 GiB edition**
+* **16 GiB edition**
+* **8 GiB edition**
+* **4 GiB edition** — *(Chromebook Edition 💻)*
